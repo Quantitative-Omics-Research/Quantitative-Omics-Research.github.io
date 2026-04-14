@@ -1,6 +1,6 @@
 # Quantitative Omics Research
 
-Github page is hosted [here](https://quantitative-omics-research.github.io/webpage/).
+Github page is hosted [here](https://quantitative-omics-research.github.io/).
 
 # Aims
 Bringing insights from mathematics to biology.
